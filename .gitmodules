@@ -1,0 +1,3 @@
+[submodule "apps/frontend"]
+	path = apps/frontend
+	url = git@github.com:rcmirandilla/calendeer-nextjs-app.git
